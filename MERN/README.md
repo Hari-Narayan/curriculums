@@ -62,7 +62,7 @@
 * [ ] Developer Tools in Browsers
 
 ## Module 10: Advance JavaScript
-* [ ] Es5 Vs Es6 Vs Es7
+* [ ] ES5 Vs ES6 Vs ES7
 * [ ] Event Loop
 * [ ] Promises
 * [ ] Closures
